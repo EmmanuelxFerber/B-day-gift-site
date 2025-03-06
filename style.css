@@ -55,7 +55,7 @@ body{
 }
 
 .gift-cover{
-    background-image: linear-gradient(to left, rgb(255 255 100 / 100%), rgb(0 0 0 / 0%)),
+    background-image: 
     url("https://cdn.vectorstock.com/i/1000v/92/49/gold-ribbon-on-pink-background-gift-box-cover-vector-4659249.jpg");
   
     background-size: cover;
